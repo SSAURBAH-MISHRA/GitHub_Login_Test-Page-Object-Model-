@@ -1,2 +1,5 @@
 # GitHub_Login_Test-Page-Object-Model-
-POM Example
+
+Enter your Github Username and Password to test it.
+
+-POM Example
